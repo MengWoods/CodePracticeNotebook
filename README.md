@@ -1,2 +1,5 @@
 # CppWork
-Code notebook
+> Code notebook
+
+## binary gap
+
