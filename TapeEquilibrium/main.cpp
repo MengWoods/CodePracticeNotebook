@@ -1,6 +1,6 @@
 #include <limits>
 using namespace std;
-int solution(vector<int> &A) {
+int solution(vector<int> &A) { // got 84% pass rate
     // write your code in C++14 (g++ 6.2.0)
     int s = 0;
     int m = std::numeric_limits<int>::max();
