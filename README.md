@@ -8,4 +8,6 @@
 - [PermMissingElem](https://github.com/MorganWoods/CppWork/blob/master/PermMissingElem/solution.py)
 - [TapeEquilibrium](https://github.com/MorganWoods/CppWork/blob/master/TapeEquilibrium/main.cpp)
 - [FrogJmp](https://github.com/MorganWoods/CppWork/blob/master/FrogJmp/main.cpp)
+- [FrogRiverOne](https://github.com/MorganWoods/CppWork/blob/master/FrogRiverOne/main.cpp)
+
 
