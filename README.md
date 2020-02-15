@@ -9,5 +9,6 @@
 - [TapeEquilibrium](https://github.com/MorganWoods/CppWork/blob/master/TapeEquilibrium/main.cpp)
 - [FrogJmp](https://github.com/MorganWoods/CppWork/blob/master/FrogJmp/main.cpp)
 - [FrogRiverOne](https://github.com/MorganWoods/CppWork/blob/master/FrogRiverOne/main.cpp)
+- [PermCheck](https://github.com/MorganWoods/CppWork/blob/master/PermCheck/main.cpp)
 
 
