@@ -10,5 +10,6 @@
 ____
 ### Python
 - [PCA](PCA/README.md)
+- [SVM](SVM/)
 
 
