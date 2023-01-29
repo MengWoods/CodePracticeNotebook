@@ -2,10 +2,13 @@
 > Code practicing notebook
 
 ## Some training works index
-- [binary gap](https://github.com/MorganWoods/CppWork/blob/master/binarygap/main.cpp); [CyclicRotation](https://github.com/MorganWoods/CppWork/blob/master/CyclicRotation/main.cpp); [OddOccurrencesInArray](https://github.com/MorganWoods/CppWork/tree/master/OddOccurrencesInArray/solution.cpp); [PermMissingElem](https://github.com/MorganWoods/CppWork/blob/master/PermMissingElem/solution.py)
-- [TapeEquilibrium](https://github.com/MorganWoods/CppWork/blob/master/TapeEquilibrium/main.cpp);[FrogJmp](https://github.com/MorganWoods/CppWork/blob/master/FrogJmp/main.cpp);[FrogRiverOne](https://github.com/MorganWoods/CppWork/blob/master/FrogRiverOne/main.cpp); [PermCheck](https://github.com/MorganWoods/CppWork/blob/master/PermCheck/main.cpp)
-- [MissingInteger](https://github.com/MorganWoods/CppWork/blob/master/MissingInteger/main.cpp); [CountDiv](https://github.com/MorganWoods/CppWork/blob/master/CountDiv/main.cpp) ;
+### C++
+- [binary gap](binarygap/readme.md); [CyclicRotation](CyclicRotation/readme.md); [OddOccurrencesInArray](OddOccurrencesinArray/README.md); [PermMissingElem](PermMissingElem/readme.md)
+- [TapeEquilibrium](TapeEquilibrium/readme.md);[FrogJmp](FrogJmp/README.md);[FrogRiverOne](FrogRiverOne/main.cpp); [PermCheck](PermCheck/main.cpp)
+- [MissingInteger](MissingInteger/main.cpp); [CountDiv](CountDiv/main.cpp) ;
+- [BinarySearchTree](binarySearchTree.cpp) ; [MergeNames](testdome/MergeNames.cpp); [questionsCount](testdome/questionsCount.cpp)
 ____
-- [BinarySearchTree](https://github.com/MorganWoods/CppWork/blob/master/testdome/binarySearchTree.cpp) ; [MergeNames](https://github.com/MorganWoods/CppWork/blob/master/testdome/MergeNames.cpp); [questionsCount](https://github.com/MorganWoods/CppWork/blob/master/testdome/questionsCount.cpp)
+### Python
+- [PCA](PCA/README.md)
 
 
